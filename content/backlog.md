@@ -21,3 +21,13 @@ question hooks, never invent numbers. See the `content-engine` skill.
 ## Published
 
 - 2026-06-18 · The future of procurement runs on one connected system → content/blog/the-future-of-procurement.mdx
+
+## Real values to supply on the public site (replace softened copy when ready)
+
+- Okoh result numbers: hours saved per week, quote turnaround before/after, missed orders
+  before/after, inventory value made visible, time to close the books. Add to the homepage
+  Outcome block and the case study outcome section.
+- Contact email: set `lib/site.ts` `email` and the `CONTACT_TO_EMAIL` env to the real address.
+- Cal.com link: set `NEXT_PUBLIC_CAL_LINK` to show live booking on `/book`.
+- Resend key: set `RESEND_API_KEY` so the contact form emails instead of mailto fallback.
+- About photo: replace the branded portrait panel with a real headshot when available.
