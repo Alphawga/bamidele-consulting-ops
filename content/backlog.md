@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-21 · idea · blog · NOGaPS oil park opens Q4 2026 but no connected procurement system exists to match local indigenous supply with operator demand in real time.
+- 2026-06-21 · idea · blog · Multi-site MRO inventory blindness: the $46M problem that looks like a procurement failure but is actually fragmented data across sites.
+- 2026-06-21 · idea · blog · NCDMB calls for outcomes over compliance while indigenous contractors wait years to get paid. Connected procurement-to-payment is what makes this visible before vendors collapse.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
