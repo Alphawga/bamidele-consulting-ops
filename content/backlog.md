@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-22 · idea · blog · NCDMB's Nigeria First audit exposes the vendor data gap in oil and gas procurement. Most operators cannot report local vs foreign spend without a spreadsheet marathon. The compliance requirement is a forcing function for connected procurement.
+- 2026-06-22 · idea · blog · Why 90% of supply chain leaders still want human oversight of AI. The bottleneck is data quality, not AI capability. One unified system before one AI agent. Real data from the RELEX 2026 report.
+- 2026-06-22 · idea · blog · Nigerian procurement's informal tail spend problem. When field teams buy from open markets with petty cash, a procurement platform does not help. Connected discipline does. Angle from the Digital Procurement Africa Summit in Lagos.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
