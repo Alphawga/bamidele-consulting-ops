@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-25 · idea · blog · AI agents fail in operations not because the model is wrong but because the data underneath is broken. The prerequisite case for one connected system before any AI layer.
+- 2026-06-25 · idea · blog · MRO predictive vs reactive: the 15-30% cost gap in oil and gas is a data visibility problem, not an AI adoption problem.
+- 2026-06-25 · idea · blog · CBN FX zero-supply and Nigerian procurement: how connected procurement systems give teams early warning on USD exposure when the official rate disappears.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
