@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-28 · idea · blog · NCDMB Nigeria First procurement policy: what item-level supplier origin records mean for oil and gas operators facing compliance audits under the new framework.
+- 2026-06-28 · idea · blog · The Hormuz supply crisis procurement case study: what operators with one connected procurement system had in common versus those who missed the window when Nigerian crude was in demand.
+- 2026-06-28 · idea · blog · Why AI agents fail at scale in 2026: Forrester and Alteryx data confirm the precondition is a clean, governed process, not a new tool.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
