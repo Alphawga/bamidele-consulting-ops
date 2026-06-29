@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-29 · idea · blog · Why 40% of agentic AI projects get scrapped: the connected operations layer you need before adding agents. Gartner 2026 Hype Cycle angle.
+- 2026-06-29 · idea · blog · What NCDMB's new Oil and Gas Park in Bayelsa means for procurement officers still writing overseas parts contracts. NOGaPS Q4 2026 angle.
+- 2026-06-29 · idea · blog · The spare parts problem in Nigerian oil and gas is an information problem first. Immensa-RusselSmith digital MRO inventory angle.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
