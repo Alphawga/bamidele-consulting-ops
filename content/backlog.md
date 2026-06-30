@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-30 · idea · blog · BCG agentic AI data shows firms that redesign processes get 60% cost reduction; firms that just automate get under 20%. What that means for Nigerian businesses starting to digitize.
+- 2026-06-30 · idea · blog · NCDMB's Oil and Gas Park opens Q4 2026 in Bayelsa. When local manufacturing capacity exists at scale, procurement compliance and cost savings point in the same direction. Operators who mapped local suppliers in advance will move faster.
+- 2026-06-30 · idea · blog · The Hormuz crisis is the clearest case study in procurement resilience since the 1970s. Every team that scrambled had the same gap: no pre-qualified second supplier in a connected system.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
