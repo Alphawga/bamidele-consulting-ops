@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-02 · idea · blog · 88 percent of AI agent pilots never reach production. The root cause is not the AI model. It is disconnected data underneath. Operational integration must come before automation.
+- 2026-07-02 · idea · blog · Multi-site oil and gas inventory: the parts are in the building, but nobody knows where. How cross-site visibility, not more stock, solves emergency procurement costs.
+- 2026-07-02 · idea · blog · Lagos procurement summit called manual systems a survival threat. The specific risk: tail spend leakage across 80 percent of transactions that nobody is tracking. One connected view of spending beats category-by-category automation.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
