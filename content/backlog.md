@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-03 · idea · blog · The $46M MRO blind spot: oil and gas companies paying emergency freight on parts already sitting in their own storeroom three sites away. One connected inventory view, checked before the PO is raised, fixes this.
+- 2026-07-03 · idea · blog · Nigeria's enterprise AI gap: workers rank 6th globally for AI literacy, enterprises rank 19th. The bottleneck is fragmented ops infrastructure, not missing skills.
+- 2026-07-03 · idea · blog · Why legacy platform migration is harder than buying a new system: the real cost of fragmented enterprise ops is extracting years of data from seven systems that were never designed to talk to each other.
+
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
