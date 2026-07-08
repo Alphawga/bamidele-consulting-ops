@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-08 · idea · blog · Nigeria's next tech wave is enterprise operations software, not consumer fintech. Why the shift validates what integrated ops has always been worth.
+- 2026-07-08 · idea · blog · Agentic AI governance gap: 72% of enterprises have agents in production, 60% have no control model. The risk is not falling behind, it is deploying without knowing what the agent can touch.
+- 2026-07-08 · idea · blog · NCDMB's Q3 vendor capacity audits will expose the gap between paper compliance and operational readiness. The case for documented, consolidated operations in Nigerian oil and gas.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
