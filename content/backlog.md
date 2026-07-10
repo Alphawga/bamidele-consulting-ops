@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-10 · idea · blog · NCDMB's physical capacity audit exposes why vendor data integrity matters more than vendor count. Angle: the briefcase contractor problem is an operations data problem, and the companies with clean records and transparent systems will rise through the new five-tier framework.
+- 2026-07-10 · idea · blog · 88% of enterprise AI agent pilots never reach production. The cause is not the model. It is disconnected data and undocumented processes. Angle: operational consolidation is the prerequisite for automation, not an optional step before it.
+- 2026-07-10 · idea · blog · Nigerian oil and gas MRO procurement leakage traced to reactive ordering and no cross-site inventory visibility. Global integrated systems show 15 to 30% total MRO cost reduction. Angle: one connected inventory and maintenance system closes the gap that better supplier contracts cannot.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
