@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-11 · idea · blog · NCDMB's Q3 capacity audit replaces document submissions with physical facility inspections: what this says about vendor data integrity inside Nigerian oil company procurement systems.
+- 2026-07-11 · idea · blog · Why AI agents fail at 40-89% rates, and what that proves: you cannot automate fragmented operations, you first need one connected system.
+- 2026-07-11 · idea · blog · MRO in oil and gas: the 15-30% cost gap between integrated digital operations and reactive maintenance, and why it is a data problem before it is a technology problem.
+
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
