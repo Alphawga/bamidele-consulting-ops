@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-12 · idea · blog · NCDMB's Q3 physical vendor audit is a procurement data quality story: the briefcase contractor survives only when vendor records are scattered and unverifiable. Organized ops wins the contract.
+- 2026-07-12 · idea · blog · Gartner says 40% of agentic AI projects will be cancelled by 2027, mostly due to governance failures not model failures. Angle: you cannot automate a process you have not mapped. One defined workflow beats one AI transformation initiative.
+- 2026-07-12 · idea · blog · Nigeria now has 500+ fintech companies. Each adds a payment rail and a reconciliation problem. The fix is not a new platform, it is one connected view across all existing ones.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
