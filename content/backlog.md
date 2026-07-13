@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-13 · idea · blog · Nigerian fintech now covers every B2B ops use case. The missing piece is a connecting layer that ties the tools to procurement and the ledger, not more tools.
+- 2026-07-13 · idea · blog · AI agents are failing in enterprises because they run without governance, and governance requires one system of record, not a stack of disconnected tools.
+- 2026-07-13 · idea · blog · What NCDMB's Q3 vendor capacity audit means for oil service companies: operational records scattered across spreadsheets will not survive a physical inspection.
+
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
