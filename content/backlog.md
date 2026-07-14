@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-19 · idea · blog · Forrester says AI agents will manage one-third of B2B invoicing and reconciliation by end 2026, but only if the data is already in one place. The prerequisite is a connected system, not better AI.
+- 2026-06-19 · idea · blog · NCDMB Oil and Gas Park opens Q4 2026 in Bayelsa. Vendors wanting IOC contracts need connected procurement, finance, and HR to pass pre-qualification. The documentation race starts now.
+- 2026-06-19 · idea · blog · Nigeria averaged 1.61 million bpd for five months against a 1.84 budget target. Scattered maintenance, procurement, and reporting systems produce exactly this kind of quiet, expensive underperformance.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
