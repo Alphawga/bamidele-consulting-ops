@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-14 · idea · blog · NCDMB's five-class vendor grading framework is a procurement data problem, not just a policy announcement: what it means when physical audits replace document review and briefcase contractors have nowhere left to hide.
+- 2026-07-14 · idea · blog · Why agentic AI projects fail for the exact same reason ERP rollouts failed in the 2010s: the process was scattered before the tool went in, and the tool gets blamed when the audit arrives.
+- 2026-07-14 · idea · blog · The IEA July 2026 crude-vs-product gap: what the Hormuz supply chain disruption tells you about the difference between knowing your suppliers and knowing your actual supply options.
+
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
