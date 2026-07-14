@@ -14,6 +14,7 @@ the site repo; manage content ideas and automation here.
 | Website | What visitors see | Edit files, or ask Claude to "change X"; deploy via Vercel |
 | Content flywheel | How work becomes blog posts and case studies | `content-engine` skill + `content/backlog.md` |
 | Workflow loop | How the system improves itself | `workflow-scout` skill + the monthly cloud routine |
+| Tool/IP scout | How work becomes product ideas | `tool-scout` skill + `tool-ideas/backlog.md` + the weekly cloud routine |
 
 ## 1. Run and deploy the site
 
@@ -62,6 +63,24 @@ business and fintech, and broad interesting signals.
   - It needs GitHub connected for the cloud account. Run `/web-setup` once, or install the
     Claude GitHub App: https://claude.ai/code/onboarding?magic=github-app-setup
 
+## 5. Weekly tool scout (what's worth building, open-sourcing, or selling)
+
+Each week a cloud routine looks at recent work across your repos (own work and client
+engagements like Okoh), plus the internet, for things generic enough to become a standalone
+product, an open-source tool, or sellable IP.
+
+- It opens a weekly PR titled "Tool scout — <date>", so you get a GitHub notification you can
+  read from your phone. The ranked digest is in the PR body and in `tool-ideas/reports/<date>.md`.
+- The top picks are added to `tool-ideas/backlog.md`. Every candidate is tagged `owned` or
+  `client-engagement` — a `client-engagement` tag means the idea is flagged, not cleared. You
+  decide the rights question before acting on it, the scout never assumes consent.
+- If the Gmail connector is connected (Anthropic connector, set up once via claude.ai), it
+  also leaves a Gmail **draft** with the top picks for you to review and send yourself — it
+  never auto-sends.
+- Capture ideas as you build: say "log a tool idea" or just keep working — the global
+  CLAUDE.md nudges Claude to capture a seed at the end of a noteworthy session, from any repo.
+- Manage the routine: (fill in the routine URL after `/schedule create` runs).
+
 ## Where to change specific things
 
 | Want to change | File |
@@ -75,10 +94,17 @@ business and fintech, and broad interesting signals.
 
 ## What runs on its own vs. needs you
 
-- Automatic: memory loads each session, the Stop-hook content nudge, the monthly scout
-  (once GitHub is connected).
-- You decide: writing and approving content, deploying, approving scout PRs, anything
-  outward-facing.
+- Automatic: memory loads each session, the Stop-hook content nudge, the monthly workflow
+  scout, the weekly tool scout (once GitHub is connected).
+- You decide: writing and approving content, deploying, approving scout PRs, sending any
+  Gmail draft the tool scout leaves, the rights call on any `client-engagement` idea,
+  anything outward-facing.
+
+## Prerequisite for the tool scout's Gmail draft step
+
+Connect Gmail via the official Anthropic connector once, in claude.ai settings (browser
+OAuth, no credentials stored locally). Until connected, the tool scout still runs and writes
+the PR + report + Artifact — it just skips the Gmail draft and says so in the report.
 
 ## Note on memory
 

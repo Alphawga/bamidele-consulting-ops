@@ -55,6 +55,11 @@ Content lives in `content/case-studies/*.mdx` and `content/blog/*.mdx`.
 - `content-engine` skill (global): seed → drafted MDX in Bamidele's voice.
 - `workflow-scout` skill (global): monthly, web-researches improvements and proposes diffs
   to this CLAUDE.md and the global one. Proposes, never edits silently.
+- `tool-ideas/backlog.md` is the IP inbox. Generic/reusable pieces from any repo (own work or
+  client engagements) drop one-line seeds here, each flagged `owned` or `client-engagement`.
+- `tool-scout` skill (global): weekly, researches the market for each candidate and ranks a
+  build-vs-open-source-vs-sell report. Never clears a client-engagement idea for extraction —
+  the ownership flag always carries through; Alpha decides the rights question.
 - Stop hook `.claude/hooks/content-capture.sh` nudges to log a seed when site files change.
 
 ## Still to supply ([TO FILL])
