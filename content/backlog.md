@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-15 · idea · blog · NCDMB is physically auditing vendor facilities in Q3 to eliminate briefcase contractors. The audit is a vendor data problem: companies with connected records pass cleanly, companies with scattered documents do not.
+- 2026-07-15 · idea · blog · Gartner predicts 40% of agentic AI projects will be cancelled by 2027. The reason is governance gaps and disconnected data, not bad AI. The one-system foundation is not prep for AI. It is what makes AI trustworthy.
+- 2026-07-15 · idea · blog · SAP calls it Autonomous Enterprise. What the demo skips is what happens when procurement agents run on three conflicting spreadsheet versions. You do not automate your way out of scattered data.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
