@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-16 · idea · blog · Gartner predicts 40% of agentic AI projects canceled by 2027: you cannot automate operations you have not connected first.
+- 2026-07-16 · idea · blog · Multi-site MRO inventory blindness at refinery scale: why working capital sits locked in disconnected SAP silos and what connecting them requires.
+- 2026-07-16 · idea · blog · NCDMB Q3 capacity audit forces oil and gas vendors to document what they actually do: the preparation starts with connected operations.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
