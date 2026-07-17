@@ -16,6 +16,8 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-23 · idea · blog · What the Hormuz closure exposed about procurement blindness in Nigerian oil and gas: operators who could not see their MRO stock, vendor alternatives, or cost exposure in real time had no playbook for the world's biggest supply disruption. The fix is one connected procurement system, not a crisis plan.
+- 2026-06-23 · idea · blog · Why 88% of AI agent pilots fail and why the fix starts with operations: the Forrester June 2026 finding maps directly onto the procurement and inventory data fragmentation problem in Nigerian businesses. You cannot automate what you have not organized.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
