@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-27 · idea · blog · The AI Solow Paradox: 89% of executives saw zero productivity gain from AI because connected data comes before automation. The sequence is the thing.
+- 2026-06-27 · idea · blog · Nigeria's $8B upstream oil investment wave creates a procurement pressure test. Companies with connected procurement will capture more local content than those building spreadsheets mid-contract.
+- 2026-06-27 · idea · blog · CBN forced fintech companies to document who actually controls them. Every business owner should do the same for their own operations.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
