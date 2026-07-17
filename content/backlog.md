@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-01 · idea · blog · AI agents need clean data first: why the consolidated system is the prerequisite, not the reward, for Nigerian operators pursuing automation.
+- 2026-07-01 · idea · blog · Local content compliance vs. operational readiness: the gap that kills projects after the award and how indigenous companies close it.
+- 2026-07-01 · idea · blog · NOGaPS opens Q4 2026: physical capacity in a park is step one, systems readiness is the competitive moat.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
