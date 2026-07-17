@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-20 · idea · blog · Gartner's 40% agentic AI failure rate: why consolidated operations are the prerequisite for AI agents, not the other way around.
+- 2026-06-20 · idea · blog · Nigeria loses 30% of procurement resources to fraud: how one connected record closes the gaps where phantom vendors and fake invoices hide.
+- 2026-06-20 · idea · blog · NCDMB "Nigeria First" capacity audit: what indigenous oil and gas suppliers need documented before the baseline studies find them missing.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
