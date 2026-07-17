@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-07 · idea · blog · Before AI agents: why 92% of enterprise rollout failures trace to data and governance, not model quality. The 2026 ROI data makes the case plainly.
+- 2026-07-07 · idea · blog · Bankability is an operations problem: why most Nigerian SMEs cannot absorb the N4.65tn bank capital that is now available to them.
+- 2026-07-07 · idea · blog · MRO inventory blindness in oil and gas: the $46M sitting in your own warehouses before you spend on emergency procurement.
+
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
