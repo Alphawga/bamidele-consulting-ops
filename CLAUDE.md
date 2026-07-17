@@ -62,6 +62,10 @@ Content lives in `content/case-studies/*.mdx` and `content/blog/*.mdx`.
   the ownership flag always carries through; Alpha decides the rights question.
 - Stop hook `.claude/hooks/content-capture.sh` nudges to log a seed when site files change.
 
+## Content creation
+
+See content-brain/CLAUDE.md, which governs all content work in this repo.
+
 ## Still to supply ([TO FILL])
 
 Result numbers, client-naming decision, live automation names, pricing, headshot, client
