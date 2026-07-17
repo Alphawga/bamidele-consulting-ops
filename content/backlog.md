@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-09 · idea · blog · NCDMB is launching physical capacity audits of oil and gas vendors in Q3 2026. What "verifiable capacity" actually means, and why the vendors with one connected system will pass while the ones with scattered records will not.
+- 2026-07-09 · idea · blog · CBN's data localisation mandate requires all Nigerian payment data on local servers by Jan 1 2027. The companies with fragmented SaaS stacks will audit five times. The ones with one integrated system will audit once.
+- 2026-07-09 · idea · blog · MIT's Phillip Isola on why agentic AI works for coding and struggles everywhere else. The reason is documentation. Your process records are the training data, and if they do not exist, no agent can learn your workflow.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
