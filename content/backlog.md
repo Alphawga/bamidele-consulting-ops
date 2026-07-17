@@ -16,6 +16,8 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-24 · idea · blog · Deloitte 2026: only 29% of companies see significant AI ROI. The gap traces back to disconnected operations data, not the AI tools themselves. Operations-first argument.
+- 2026-06-24 · idea · blog · NNPC's 2.5 mbpd target means procurement has to scale. Local vendors need connected systems to win the work that comes with that growth.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
