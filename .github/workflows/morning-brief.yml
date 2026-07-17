@@ -1,0 +1,16 @@
+name: Morning brief
+
+# Disabled: workflow_dispatch only for now. Enable after the manual habit holds for
+# 3 weeks. Requires an ANTHROPIC_API_KEY secret and a headless claude run step before
+# the cron below can do anything.
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: '0 5 * * *' # 6:00 AM WAT (Africa/Lagos is UTC+1, no DST)
+
+jobs:
+  morning-brief:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Placeholder
+        run: echo "Not wired yet. Manual /morning run comes first."
