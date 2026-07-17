@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-06-26 · idea · blog · The $300M Amukpe-Escravos valuation gap: what scattered asset records cost Nigeria's oil and gas sector and the people trying to govern it.
+- 2026-06-26 · idea · blog · NCDMB's NOGaPS opens Q4 2026: why Niger Delta procurement teams should update their approved vendor lists now, before the supplier map changes.
+- 2026-06-26 · idea · blog · AI agents will handle 60-70% of procurement transactions. Why data quality is the real barrier, not the technology.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
