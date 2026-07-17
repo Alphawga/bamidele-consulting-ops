@@ -1,0 +1,1 @@
+One file per published post: YYYY-MM-DD.md. Frontmatter-style header: pillar, hook, engagement numbers (added by /weekly). Body is the exact final text as published. This folder is the corpus of Bamidele's real voice; recent entries are read before every drafting session.
