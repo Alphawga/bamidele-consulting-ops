@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-17 · idea · blog · NCDMB physical vendor audit (Q3 2026): what good procurement data actually looks like. Verified on-site, unified grading across all regulators, no intermediaries. The same gap exists inside company-level vendor lists.
+- 2026-07-17 · idea · blog · AI agents are failing at a 40% decommission rate not because the model is wrong but because the data layer underneath is broken. The case for fixing the structure before adding the intelligence.
+- 2026-07-17 · idea · blog · Africa enterprise AI barrier starts at the supplier: no e-invoicing, no structured pricing history, no standardised onboarding data. Automation starts one step earlier than most think.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
