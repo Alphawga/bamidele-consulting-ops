@@ -16,6 +16,7 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-18 · work · blog · Rebuilt my own scattered notes/ops repo into one domain-based system (AlphaBrain), business ops as one domain among several — the exact "scattered operations into one intelligent system" line, applied to my own life instead of a client's.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
