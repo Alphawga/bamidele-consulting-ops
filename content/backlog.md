@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-18 · idea · blog · NCDMB's physical capacity audit ends the era of briefcase contractors: what the shift to verified vendor data means for how procurement will actually work in Nigerian oil and gas.
+- 2026-07-18 · idea · blog · Agentic AI is in production at 72% of enterprises and 60% have no governance: why running AI agents on fragmented operations data produces faster bad decisions.
+- 2026-07-18 · idea · blog · AfCFTA at five years: the trade agreement opened the door but the border is still an operations problem, not a policy problem.
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
