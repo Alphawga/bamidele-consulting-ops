@@ -2,11 +2,11 @@
 
 /weekly rewrites the "Next week" block every Sunday. Keep past weeks below as history.
 
-All posts below are written in the AlphaWGA voice defined in `domains/business/knowledge/alphawga-voice.md`. Direct, concrete, self-aware, Nigerian context, no jargon, no question hooks. These are first drafts; Bamidele edits before publishing.
+Content is structured around the framework in `domains/business/knowledge/content-framework.md`: Proof, Blueprints, Signal, Person, plus the weekly **Tuesday Blueprint** series for the Nigerian labour market. All posts are written in the AlphaWGA voice defined in `domains/business/knowledge/alphawga-voice.md`.
 
 ## Next week: 2026-07-20 to 2026-07-26
 
-Cadence: 2 posts/day one-week experiment (AM anchor + PM short). AM posts may carry a single P.S. CTA. PM posts are no-CTA value only. Check reach numbers next Sunday before deciding whether to keep the second slot.
+Theme: land inflow or unblock it. Posts support the two goals: signed contracts and a live, converting website.
 
 ---
 
@@ -38,19 +38,27 @@ It is the same mistake I point out in other people's businesses. Adding a new to
 
 ---
 
-### Tuesday 21 — Blueprints / AM
+### Tuesday 21 — Blueprints: Tuesday Blueprint / AM
 
-**Niche teardown: pharmaceutical distribution.**
+**Stop sending CVs. Start solving a problem.**
 
-[TO FILL: one specific observation from research or a client conversation about how pharmaceutical distributors in Nigeria operate.]
+If you are an operations analyst looking for work in Lagos, sending CVs is the slowest way to get hired. Everybody is sending CVs. Nobody is sending proof.
 
-The pattern is the same. Inventory is tracked in one place. Sales orders are in another. Regulatory paperwork is in a third. When a customer asks for stock, somebody has to check three systems before they can answer.
+Here is the blueprint. Pick one local business. Any small business you can walk into. Ask the owner one question: "Where does your operation lose money that you cannot see?"
 
-By the time they answer, the customer has already called someone else.
+Then do the work. Map the three systems that should talk to each other but do not. Inventory, sales, and accounts. Procurement, finance, and delivery. Whatever you find.
 
-This is not a pharma problem. It is an operations problem wearing a pharma uniform. The fix is the same: one system where stock, orders, and records talk to each other.
+Document it. One page. A simple diagram. A short list of what is disconnected and what it is costing them. No jargon. No 50-slide deck.
 
-*P.S. The SCORECARD self-audit shows you which of your three systems is the one bleeding money.*
+Send it to the owner with one line: "I found this in 30 minutes. If you want me to find the rest, here is my number."
+
+That is not a CV. That is a job interview that already happened.
+
+**Domain:** Operations analyst / business analyst.
+**Do this:** one free 3-system audit for a local business.
+**Reference:** The Mom Test by Rob Fitzpatrick — how to ask the right questions before building anything.
+
+*P.S. The same method works if you want to sell operations consulting instead of getting hired.*
 
 ### Tuesday 21 — PM
 
@@ -64,7 +72,7 @@ The diagnostic is not where you make money. It is where you stop wasting it.
 
 ---
 
-### Wednesday 22 — Signal / AM
+### Wednesday 22 — Blueprints / AM
 
 **Nigerian SMEs do not need AI yet.**
 
@@ -92,13 +100,17 @@ Positioning is priced in before the client reads a single line.
 
 ### Thursday 23 — Signal / AM
 
-**The polite response is the failure, not disagreement.**
+**NCDMB is auditing contractors in Q3. Documents will not count.**
 
-When someone says "that sounds interesting" and moves on, they are not almost convinced. They are checked out. The polite nod is the worst outcome because it gives you no information.
+Five regulators are sending inspectors to facilities this quarter. A harmonised five-class grading system replaces the different classifications. The goal is to eliminate briefcase contractors and route contracts to companies with verifiable capacity.
 
-A strong pitch gets a reaction. Love it, hate it, ask a hard question. Any of those is better than a nod.
+The companies that pass are the ones whose operations are documented before the inspectors arrive. Purchase orders, inventory records, compliance certificates, all in one place.
 
-This is why I keep sharpening the core line: "I consolidate scattered business operations into one intelligent system." It either lands or it does not. The nod tells me to rewrite it.
+The companies that fail are the ones with scattered spreadsheets and email threads who will spend weeks trying to produce evidence they should have had ready.
+
+This is not a compliance problem. It is a procurement gatekeeping event. The organized records win the contracts.
+
+*P.S. The SCORECARD shows you where your records are scattered before the audit shows it for you.*
 
 ### Thursday 23 — PM
 
@@ -156,7 +168,7 @@ Everything used to go into a category at capture. The problem was, I often did n
 
 Now everything drops into one raw inbox. It gets classified at the distillation step, after I have seen the pattern.
 
-Same fix I hand clients drowning in miscategorized inventory or receipts. Capture first. Classify with intelligence downstream. Do not make the human sort blind.
+Same fix I'd hand a client drowning in miscategorized inventory or receipts: capture first, classify with intelligence downstream, do not make the human sort blind.
 
 ---
 
