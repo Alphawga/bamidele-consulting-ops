@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-19 · idea · blog · NCDMB Q3 capacity audit will use physical inspection to grade contractors: the companies whose operations are documented in one place will pass; the ones with scattered spreadsheets and email threads will not.
+- 2026-07-19 · idea · blog · CBN's new real-time FX tracker for BDCs (July 15): the regulator solved its visibility problem with one portal. Operators can solve the same problem inside their own business.
+- 2026-07-19 · idea · blog · Gartner: 40% of AI agents in production will be decommissioned by 2027 due to governance gaps. The failure pattern is identical to scattered-tools problems in procurement operations.
+
 - 2026-06-18 · idea · blog · Why connected accounting beats month-end reconciliation, told through the Okoh receiving-to-ledger flow.
 
 ## Published
