@@ -72,3 +72,4 @@ Wednesday and Friday are NDI teaching days. Keep those posts short by design.
 - Never fabricate numbers, clients or stories. If a Proof post needs a number you do not have, ask.
 - Okoh may be named. Shell and CEED Supply may NOT be named until Bamidele confirms clearance.
 - LinkedIn only until day 60 (from 2026-07-17). Repurposing to X, YouTube, Instagram, TikTok comes after, as cuts of existing posts, not new creation.
+- Signal and Person stay CTA-free on purpose, even after seeing (2026-07-19, checked against a real, hand-copied sample of a large personal brand's posts) that an established creator can fuse a pitch into nearly every post without hurting engagement. That works once an audience already trusts you. This account has near-zero audience and one post ever published, so some pillars still have to sell nothing until that trust is earned. Do not "fix" the no-CTA rule by pointing to how bigger creators do it.

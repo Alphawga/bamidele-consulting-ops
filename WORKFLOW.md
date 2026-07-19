@@ -7,8 +7,10 @@ could work better, update it and log the change (date + reason) in `ops/CHANGELO
 
 Every request belongs to one or more `domains/<domain>/`. Currently:
 
-- `business` — Bamidele Consulting / AlphaWGA: the content pipeline, the operator guide,
-  the tool-ideas backlog. See `domains/business/SKILL.md`.
+- `business` — Bamidele Consulting / AlphaWGA content pipeline + operator guide, general
+  sales skill-building, and career management. One shared `raw/` intake; `knowledge/` is
+  organized by sub-area (`knowledge/sales/`, `knowledge/career/`, plus the content-pipeline
+  files at the top level). See `domains/business/SKILL.md`.
 - `fitness` — skeleton only, not yet filled in.
 - `book-writing` — skeleton only, not yet filled in.
 

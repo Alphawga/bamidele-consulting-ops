@@ -18,8 +18,9 @@ own `SKILL.md` — don't apply one domain's voice to another.
 
 ## How to pick a domain
 
-- Business (Bamidele Consulting / AlphaWGA — content, ops, tool-ideas, the consulting
-  brand): route to `domains/business/`, read `domains/business/SKILL.md`.
+- Business (Bamidele Consulting / AlphaWGA content pipeline, general sales skill-building,
+  career management — all one domain, see `domains/business/SKILL.md` for the sub-areas):
+  route to `domains/business/`, read `domains/business/SKILL.md`.
 - Fitness: route to `domains/fitness/` (skeleton — not yet filled in).
 - Book writing: route to `domains/book-writing/` (skeleton — not yet filled in).
 - Anything else: if it clearly fits one of the above, use it. If not, say so and ask whether

@@ -7,7 +7,8 @@ without repeating it.
 - Role(s): [TO FILL]
 - Current focus across domains: [TO FILL]
 - What each domain is for, in one line each:
-  - business: Bamidele Consulting / AlphaWGA — consulting brand, content pipeline, ops.
+  - business: Bamidele Consulting / AlphaWGA (brand, content pipeline, ops), plus general
+    sales skill-building and career management — one domain, see `domains/business/SKILL.md`.
   - fitness: [TO FILL]
   - book-writing: [TO FILL]
 

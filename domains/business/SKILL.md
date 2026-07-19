@@ -1,14 +1,35 @@
-# SKILL: Business (Bamidele Consulting / AlphaWGA)
+# SKILL: Business
 
-This domain covers the private ops + content pipeline for the consulting brand. It holds
-the content pipeline (`content/backlog.md`, `content/radar/`), the operator guide
-(`playbooks/operator-guide.md`), the content-capture hook, and the tool-ideas backlog
-(`playbooks/tool-ideas/`). The public website lives in a separate repo
-(`bamidele-consulting`), which deploys to Vercel. Finished, intended-public posts are added
-to the PUBLIC repo; ideas and ops stay here. The brand: Bamidele Ajibola, a Lagos technical
-architect who consolidates scattered business operations into one intelligent system.
+This domain covers Alpha's whole professional life: the Bamidele Consulting / AlphaWGA
+brand and content pipeline, general sales skill-building, and career management. They share
+one `raw/` intake and one domain because they're facets of the same thing, not because they
+share a voice — see the scope note below before applying brand voice rules anywhere outside
+published content.
 
-## Voice rules (non-negotiable, for ALL copy)
+### Sub-areas
+
+- **Consulting brand (AlphaWGA)** — the content pipeline (`content/backlog.md`,
+  `content/radar/`), the operator guide (`playbooks/operator-guide.md`), the offer ladder
+  (`playbooks/offer-playbook.md` — the 5-rung ladder from free scorecard through fractional
+  advisor, pricing, scripts, delivery standards), the content-capture hook, and the tool-ideas
+  backlog (`playbooks/tool-ideas/`). The public website lives in a
+  separate repo (`bamidele-consulting`), which deploys to Vercel. Finished, intended-public
+  posts are added to the PUBLIC repo; ideas and ops stay here. The brand: Bamidele Ajibola, a
+  Lagos technical architect who consolidates scattered business operations into one
+  intelligent system.
+- **Sales** — general skill-building (scripts, objection-handling, deal review). Distilled
+  notes in `knowledge/sales/`. Not brand copy — no voice rules apply.
+- **Career** — general career management (reviews, mentor notes, planning). Distilled notes
+  in `knowledge/career/`. Not brand copy — no voice rules apply.
+
+Raw source material for any of the three goes in `raw/`, undifferentiated — file it by
+topic into the right `knowledge/` subfolder at distillation time, not before.
+
+## Voice rules (non-negotiable, for ALL published AlphaWGA/Bamidele copy only)
+
+These apply strictly to content that goes out under the Bamidele Consulting brand (blog
+posts, case studies, LinkedIn copy). They do not apply to internal sales or career advice —
+answer those plainly, in whatever register actually helps Alpha.
 
 - No em dashes anywhere. Use periods, commas, colons, or brackets.
 - No jargon: leverage, streamline, synergy, seamless, solutions, empower, unlock.

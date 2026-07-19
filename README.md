@@ -23,10 +23,11 @@ alphabrain/
 
 ## Domains
 
-- **business** (`domains/business/`) — Bamidele Consulting / AlphaWGA: the content pipeline,
-  the operator guide, the tool-ideas backlog. This was the entire repo before the 2026-07-18
-  merge into AlphaBrain (see `ops/CHANGELOG.md`); its internal structure is unchanged, only
-  the parent path moved.
+- **business** (`domains/business/`) — Bamidele Consulting / AlphaWGA content pipeline,
+  general sales skill-building, and career management. This was the entire repo before the
+  2026-07-18 merge into AlphaBrain (see `ops/CHANGELOG.md`); the content-pipeline structure
+  is unchanged, only the parent path moved. Sales and career were folded in as sub-areas
+  sharing one `raw/` intake — see `domains/business/SKILL.md`.
 - **fitness** (`domains/fitness/`) — skeleton, not yet filled in.
 - **book-writing** (`domains/book-writing/`) — skeleton, not yet filled in.
 
