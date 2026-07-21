@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-21 · radar · blog · NRS e-invoicing deadline July 31: the N5B+ companies failing integration don't have a technology problem, they have a data location problem. The ones that passed quickly had centralized invoicing before the mandate.
+- 2026-07-21 · radar · blog · Hackett Group 2026: 56% of procurement orgs now running agentic AI, 3.7x ROI for adopters, but the gains only land for teams whose data was already connected. AI over fragmented operations produces faster wrong answers.
+- 2026-07-21 · radar · blog · FG N729bn power bond pays only verified GenCo debts: the companies with organized receivables records got paid in January, the ones still verifying are waiting. Documentation is what turns a financial programme into cash.
+
 - 2026-07-19 · idea · blog · Went and actually counted a real person's post timestamps instead of trusting a search summary of "expert advice" about how often they post. The real number was nearly double what the secondhand advice claimed. If a decision matters, count it yourself.
 - 2026-07-19 · idea · blog · Big personal brands fuse the value and the pitch into one post every time, no separation. That only works once you already have the audience. Before that point, some posts have to sell nothing, on purpose, or nobody sticks around long enough to see the offer.
 - 2026-07-19 · idea · blog · Everyone copies the routine they assume a successful person has, not the one they actually said. Checked Priestley's real advice before doubling my own posting cadence: he teaches 3x a week, not daily, and 2026 platform data shows 2+ posts a day cost you about 40% of your reach. Check the source before you copy the habit.
