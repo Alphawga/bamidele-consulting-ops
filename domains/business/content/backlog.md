@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-24 · radar · blog · SAP built a vendor-agnostic registry for governing all AI agents across the enterprise. The principle: see everything from one place before you lose the ability to see anything. The same logic applies to procurement and finance operations.
+- 2026-07-24 · radar · blog · Enterprises are projected to run 1,600 AI agents each by year-end 2026. Only 36% have centralized governance. Tool proliferation without oversight is the same failure pattern as scattered procurement operations, just faster and more expensive.
+- 2026-07-24 · radar · blog · Nigeria's 31 oil block winners have 90 days to prove operational readiness. The NUPRC compliance deadline is the same pressure as the NCDMB capacity audit. The companies with organized documentation will deliver; the ones with scattered records will miss the window.
 - 2026-07-19 · idea · blog · Went and actually counted a real person's post timestamps instead of trusting a search summary of "expert advice" about how often they post. The real number was nearly double what the secondhand advice claimed. If a decision matters, count it yourself.
 - 2026-07-19 · idea · blog · Big personal brands fuse the value and the pitch into one post every time, no separation. That only works once you already have the audience. Before that point, some posts have to sell nothing, on purpose, or nobody sticks around long enough to see the offer.
 - 2026-07-19 · idea · blog · Everyone copies the routine they assume a successful person has, not the one they actually said. Checked Priestley's real advice before doubling my own posting cadence: he teaches 3x a week, not daily, and 2026 platform data shows 2+ posts a day cost you about 40% of your reach. Check the source before you copy the habit.
