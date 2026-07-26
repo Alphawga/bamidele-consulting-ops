@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-26 · radar · blog · Nigeria awarded 37 oil blocks this week, 2026 round already approved. Every new block is a procurement event that has not started. The operators who build connected operations from day one skip the scramble incumbents are still in.
+- 2026-07-26 · radar · blog · Private sector credit rose N2.22 trillion in June alone, to N83.3 trillion, while government borrowing dropped. The credit is available. Connected accounting is the credential that accesses it: businesses with auditable, real-time financials get the facility faster.
+- 2026-07-26 · radar · blog · Alterion launched Draco (July 16), the first dedicated AI agent runtime governance platform. Proof that deploying agents without a control plane is the failure mode. The governance layer comes before the agent.
+
 - 2026-07-19 · idea · blog · Went and actually counted a real person's post timestamps instead of trusting a search summary of "expert advice" about how often they post. The real number was nearly double what the secondhand advice claimed. If a decision matters, count it yourself.
 - 2026-07-19 · idea · blog · Big personal brands fuse the value and the pitch into one post every time, no separation. That only works once you already have the audience. Before that point, some posts have to sell nothing, on purpose, or nobody sticks around long enough to see the offer.
 - 2026-07-19 · idea · blog · Everyone copies the routine they assume a successful person has, not the one they actually said. Checked Priestley's real advice before doubling my own posting cadence: he teaches 3x a week, not daily, and 2026 platform data shows 2+ posts a day cost you about 40% of your reach. Check the source before you copy the habit.
