@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-27 · radar · blog · NCDMB launched the NCTRC trainer certification portal today: only verified trainers on NOGIC-JQS count toward Nigerian Content Plan HCD targets. Same pattern as the capacity audit, applied to human capacity records. Companies with scattered training records will fail the check.
+- 2026-07-27 · radar · blog · FG and Access Bank officially tied AI adoption to the $1tn economy target on July 24. The consolidation argument is now federal policy. The angle: a bank app is not a business operations system, but the intent is the same as what I build.
+- 2026-07-27 · radar · blog · IBM study (June 2026): enterprises will run 1,600 AI agents by year-end. Only 18% know what agents they already have. 54 agent incidents per org per year. The scattered-tools problem in its newest form, same fix.
 - 2026-07-19 · idea · blog · Went and actually counted a real person's post timestamps instead of trusting a search summary of "expert advice" about how often they post. The real number was nearly double what the secondhand advice claimed. If a decision matters, count it yourself.
 - 2026-07-19 · idea · blog · Big personal brands fuse the value and the pitch into one post every time, no separation. That only works once you already have the audience. Before that point, some posts have to sell nothing, on purpose, or nobody sticks around long enough to see the offer.
 - 2026-07-19 · idea · blog · Everyone copies the routine they assume a successful person has, not the one they actually said. Checked Priestley's real advice before doubling my own posting cadence: he teaches 3x a week, not daily, and 2026 platform data shows 2+ posts a day cost you about 40% of your reach. Check the source before you copy the habit.
