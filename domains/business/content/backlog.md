@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-28 · radar · blog · Nigeria ran 13 months on zero aviation fuel imports, then shipped N757B of jet fuel to Europe in June 2026. What Dangote proved at national scale, a mid-size oil and gas operator can prove at company scale: connected operational data is what makes the difference, not the hardware.
+- 2026-07-28 · radar · blog · Nigerian banks' maximum lending rate: 33.16 percent as of July 26. At that cost of capital, manual reconciliation and scattered operations are not just inefficiency, they are a funded cost. The case for operational consolidation is arithmetic now, not a management argument.
+- 2026-07-28 · radar · blog · NUPRC's 2025 licensing round: 143 companies competed, 31 won 37 blocks, 13 blocks got zero bids. Winning required passing a weighted commercial score on documentation, work programme, and financial commitment. Same gate as the NCDMB contractor audit. Nigerian operators now face this requirement from two separate regulators.
+
 - 2026-07-19 · idea · blog · Went and actually counted a real person's post timestamps instead of trusting a search summary of "expert advice" about how often they post. The real number was nearly double what the secondhand advice claimed. If a decision matters, count it yourself.
 - 2026-07-19 · idea · blog · Big personal brands fuse the value and the pitch into one post every time, no separation. That only works once you already have the audience. Before that point, some posts have to sell nothing, on purpose, or nobody sticks around long enough to see the offer.
 - 2026-07-19 · idea · blog · Everyone copies the routine they assume a successful person has, not the one they actually said. Checked Priestley's real advice before doubling my own posting cadence: he teaches 3x a week, not daily, and 2026 platform data shows 2+ posts a day cost you about 40% of your reach. Check the source before you copy the habit.
