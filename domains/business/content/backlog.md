@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-29 · radar · blog · Connect the data first. 88% of AI agent pilots never reach production (IDC). The failure concentrates in companies that layered AI on top of unconnected systems. One integrated data layer, then point the AI at it. The sequence is the fix, not the tool.
+- 2026-07-29 · radar · blog · CBN is mandating what good operators build voluntarily: separate systems, traceable data, legible operations. OPay, Moniepoint, PalmPay have 155 days to ring-fence each subsidiary and localize their data. Companies with connected internal systems absorb this faster. The pressure is external; the readiness question is internal.
+- 2026-07-29 · radar · blog · Africa's biggest procurement conference (APSCHA 2026) ran in Lagos today. The theme shift from efficiency to resilience and traceability is the signal. Operators who can show a real-time connected supply chain view are winning the contracts. This is worth a post on what "future-proofing" actually means in practice.
+
 - 2026-07-19 · idea · blog · Went and actually counted a real person's post timestamps instead of trusting a search summary of "expert advice" about how often they post. The real number was nearly double what the secondhand advice claimed. If a decision matters, count it yourself.
 - 2026-07-19 · idea · blog · Big personal brands fuse the value and the pitch into one post every time, no separation. That only works once you already have the audience. Before that point, some posts have to sell nothing, on purpose, or nobody sticks around long enough to see the offer.
 - 2026-07-19 · idea · blog · Everyone copies the routine they assume a successful person has, not the one they actually said. Checked Priestley's real advice before doubling my own posting cadence: he teaches 3x a week, not daily, and 2026 platform data shows 2+ posts a day cost you about 40% of your reach. Check the source before you copy the habit.
