@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-30 · radar · blog · NNPC saved $3.4bn through contract restructuring, not new software: the procurement visibility angle. What contract discipline did for Nigeria's biggest operator, and why scattered spreadsheets make that impossible at any scale.
+- 2026-07-30 · radar · blog · CBN data localization: banks were ready, fintechs were not. The migration cost maps directly to how scattered your data was. Same logic applies to procurement ops before an NCDMB or IOC due diligence.
+- 2026-07-30 · radar · blog · MuleSoft 2026: average enterprise runs 12 AI agents, half siloed. Only 27% of apps connected. The companies getting 30-45% cost reductions from AI in procurement did the integration work first. The data layer is not the boring part you do after.
+
 - 2026-07-19 · idea · blog · Went and actually counted a real person's post timestamps instead of trusting a search summary of "expert advice" about how often they post. The real number was nearly double what the secondhand advice claimed. If a decision matters, count it yourself.
 - 2026-07-19 · idea · blog · Big personal brands fuse the value and the pitch into one post every time, no separation. That only works once you already have the audience. Before that point, some posts have to sell nothing, on purpose, or nobody sticks around long enough to see the offer.
 - 2026-07-19 · idea · blog · Everyone copies the routine they assume a successful person has, not the one they actually said. Checked Priestley's real advice before doubling my own posting cadence: he teaches 3x a week, not daily, and 2026 platform data shows 2+ posts a day cost you about 40% of your reach. Check the source before you copy the habit.
