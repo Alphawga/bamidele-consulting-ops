@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-31 · radar · blog · Nigeria Fintech Forum met yesterday as two CBN deadlines close in: fintechs must divest dominant market positions by December 31 and move all payment data to Nigerian servers by January 1. Both are data architecture decisions before they are compliance decisions.
+- 2026-07-31 · radar · blog · 31 companies won Nigerian oil blocks on July 22 and each has 90 days to pay the signature bonus, file guarantees, and sign contracts or forfeit the award. At the same time as the NCDMB Q3 audit, the oil sector just issued two back-to-back deadlines that reward organized documentation.
+- 2026-07-31 · radar · blog · Gartner projects 40% of enterprise apps will embed an AI agent by end of 2026 (up from less than 5% in 2025) and the July O'Reilly Radar says $234 billion in enterprise software is at risk because governance isn't keeping pace. Agents built on fragmented data systems amplify the visibility problem they are supposed to solve.
 - 2026-07-19 · idea · blog · Went and actually counted a real person's post timestamps instead of trusting a search summary of "expert advice" about how often they post. The real number was nearly double what the secondhand advice claimed. If a decision matters, count it yourself.
 - 2026-07-19 · idea · blog · Big personal brands fuse the value and the pitch into one post every time, no separation. That only works once you already have the audience. Before that point, some posts have to sell nothing, on purpose, or nobody sticks around long enough to see the offer.
 - 2026-07-19 · idea · blog · Everyone copies the routine they assume a successful person has, not the one they actually said. Checked Priestley's real advice before doubling my own posting cadence: he teaches 3x a week, not daily, and 2026 platform data shows 2+ posts a day cost you about 40% of your reach. Check the source before you copy the habit.
