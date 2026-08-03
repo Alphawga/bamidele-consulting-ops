@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-08-03 · radar · blog · Transcorp Hotels grew profit 21% in H1 2026 while revenue fell: hospitality Blueprint showing how cost visibility inside the operation (cost per room, cost per F&B order, maintenance tracking) is what separates the hotels that survive a revenue dip from the ones that do not.
+- 2026-08-03 · radar · blog · Nigeria's agro exporters lost 31% of export revenue in Q1 2026 to phytosanitary failures and port rejections, not product quality: the angle is that for agro-commodity exporters, documentation IS the product — one connected system for batch records, chemical usage logs, and certification trails is not overhead, it is what gets you paid.
+- 2026-08-03 · radar · blog · Nigeria haulage: the country loses $4bn a year to fragmented transport and operators carry 90% of cargo freight with no single view of fuel spend, route cost, or maintenance cycles — the national infrastructure gap is outside their control, but the information gap is not, and that one is solvable now.
+
 - 2026-07-19 · idea · blog · Went and actually counted a real person's post timestamps instead of trusting a search summary of "expert advice" about how often they post. The real number was nearly double what the secondhand advice claimed. If a decision matters, count it yourself.
 - 2026-07-19 · idea · blog · Big personal brands fuse the value and the pitch into one post every time, no separation. That only works once you already have the audience. Before that point, some posts have to sell nothing, on purpose, or nobody sticks around long enough to see the offer.
 - 2026-07-19 · idea · blog · Everyone copies the routine they assume a successful person has, not the one they actually said. Checked Priestley's real advice before doubling my own posting cadence: he teaches 3x a week, not daily, and 2026 platform data shows 2+ posts a day cost you about 40% of your reach. Check the source before you copy the habit.
