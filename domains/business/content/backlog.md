@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-07-20 · radar · blog · Russia's diesel export ban is a procurement cost visibility test: the companies that saw the price spike coming had connected fuel inventory and supplier data; the ones that found out on the invoice did not.
+- 2026-07-20 · radar · blog · 57% of enterprises traced confident AI agent errors to bad underlying data, not a bad model. Fix the data layer first: the same unified system that prevents AI errors also fixes procurement reporting and compliance documentation.
+- 2026-07-20 · radar · blog · Forrester says one-third of B2B transactions will run through autonomous agents by end of 2026. When your client's agent reads your invoice records, disconnected operations become a payment delay, automatically.
 - 2026-07-19 · idea · blog · Went and actually counted a real person's post timestamps instead of trusting a search summary of "expert advice" about how often they post. The real number was nearly double what the secondhand advice claimed. If a decision matters, count it yourself.
 - 2026-07-19 · idea · blog · Big personal brands fuse the value and the pitch into one post every time, no separation. That only works once you already have the audience. Before that point, some posts have to sell nothing, on purpose, or nobody sticks around long enough to see the offer.
 - 2026-07-19 · idea · blog · Everyone copies the routine they assume a successful person has, not the one they actually said. Checked Priestley's real advice before doubling my own posting cadence: he teaches 3x a week, not daily, and 2026 platform data shows 2+ posts a day cost you about 40% of your reach. Check the source before you copy the habit.
