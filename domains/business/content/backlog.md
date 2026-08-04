@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-08-04 · radar · blog · Nigeria hotel operators posted N14.6bn combined PAT in H1 2026, highest in five years. Hospitality procurement still runs on phone-call approvals and a monthly spreadsheet. Revenue growth on a fragmented system makes the leaks bigger.
+- 2026-08-04 · radar · blog · AI in procurement is at 94% weekly adoption and 4% at scale. The gap is fragmented data. Nigerian SME operators face the identical problem: WhatsApp approvals, one spreadsheet per supplier, separate accounting. The AI cannot fix what the connected system has not built yet.
+- 2026-08-04 · radar · blog · Nigeria non-oil exports up 39% in Q1 2026 and export containers nearly doubled. Agro traders that can produce origin certificates and buyer documentation fast take disproportionate share of the window.
+
 - 2026-07-19 · idea · blog · Went and actually counted a real person's post timestamps instead of trusting a search summary of "expert advice" about how often they post. The real number was nearly double what the secondhand advice claimed. If a decision matters, count it yourself.
 - 2026-07-19 · idea · blog · Big personal brands fuse the value and the pitch into one post every time, no separation. That only works once you already have the audience. Before that point, some posts have to sell nothing, on purpose, or nobody sticks around long enough to see the offer.
 - 2026-07-19 · idea · blog · Everyone copies the routine they assume a successful person has, not the one they actually said. Checked Priestley's real advice before doubling my own posting cadence: he teaches 3x a week, not daily, and 2026 platform data shows 2+ posts a day cost you about 40% of your reach. Check the source before you copy the habit.
