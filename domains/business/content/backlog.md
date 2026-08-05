@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-08-05 · radar · blog · Nigeria's agro exporters lost N532 billion in Q1 not because the crop was bad but because compliance documentation (MRL records, phytosanitary certs, input logs) was missing or late: the business that tracks supplier inputs and cert status in one place catches the gap before the container reaches the port.
+- 2026-08-05 · radar · blog · Diesel moved 32 percent in one month (N2,474 to N3,277/litre, NBS May 2026): a haulage operator with fuel costs connected to delivery contracts and invoices in one system reprices before the contract is signed; one with three separate notebooks reprices on the next invoice, which is already wrong.
+- 2026-08-05 · radar · blog · Africa hotel pipeline hits record 123,846 rooms; Nigeria ranks third with 57 hotels but only 39 percent under construction: the execution gap is FF&E and MEP procurement organisation, not capital, and the hotel operators who will close that gap fastest are the ones who can track every purchase order status and delivery date from one place.
 - 2026-07-20 · radar · blog · Russia's diesel export ban is a procurement cost visibility test: the companies that saw the price spike coming had connected fuel inventory and supplier data; the ones that found out on the invoice did not.
 - 2026-07-20 · radar · blog · 57% of enterprises traced confident AI agent errors to bad underlying data, not a bad model. Fix the data layer first: the same unified system that prevents AI errors also fixes procurement reporting and compliance documentation.
 - 2026-07-20 · radar · blog · Forrester says one-third of B2B transactions will run through autonomous agents by end of 2026. When your client's agent reads your invoice records, disconnected operations become a payment delay, automatically.
