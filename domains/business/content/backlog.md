@@ -16,6 +16,9 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-09-03 · radar · blog · Paystack bought three Nigerian fintechs in 18 months and folded each brand into one platform. The consolidation thesis, run at scale by the company that processes most Nigerian digital payments: buying scattered specialist tools is faster and cheaper than building from scratch, but the end state is always one connected system.
+- 2026-09-03 · radar · blog · McKinsey 2026 AI survey: 80% of professionals say AI improved personal productivity, but enterprise EBIT impact is flat at 37% for the second year running. The gap traces to fragmented business data, not bad AI models. Fix the data layer first, the financial impact follows.
+- 2026-09-03 · radar · blog · Nigeria's agro exports crashed 31.2% in Q1 2026 because phytosanitary certificates, pesticide records, and origin documentation arrived late or incorrect at the port. Every rejection started as a coordination failure across systems that do not talk to each other.
 - 2026-07-20 · radar · blog · Russia's diesel export ban is a procurement cost visibility test: the companies that saw the price spike coming had connected fuel inventory and supplier data; the ones that found out on the invoice did not.
 - 2026-07-20 · radar · blog · 57% of enterprises traced confident AI agent errors to bad underlying data, not a bad model. Fix the data layer first: the same unified system that prevents AI errors also fixes procurement reporting and compliance documentation.
 - 2026-07-20 · radar · blog · Forrester says one-third of B2B transactions will run through autonomous agents by end of 2026. When your client's agent reads your invoice records, disconnected operations become a payment delay, automatically.
