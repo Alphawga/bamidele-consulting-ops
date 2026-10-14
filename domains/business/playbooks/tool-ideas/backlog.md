@@ -17,6 +17,7 @@ See the `tool-scout` skill for the full Capture/Scout workflow and the ownership
 
 ---
 
+- 2026-10-04 · Okoh ERP (`src/lib/accounting/posting-engines.ts`, GRN flow) · client-engagement · Tool-scout pick (2026-10-04 report): the idempotency pattern itself (not Okoh's code) is strong content/library IP — ERPNext has the identical double-posting bug open (frappe/erpnext#59580) — but stays gated on resolving rights with the client before any extraction.
 - 2026-07-14 · Okoh ERP (`src/lib/accounting/bank-sync/`) · client-engagement · Bank-feed transaction matching + auto-posting engine (Plaid connect, rule-based matcher, GL posting, exclude flow) — generic enough for any small business doing manual bank reconciliation.
 - 2026-07-14 · Okoh ERP (`src/lib/accounting/posting-engines.ts`, GRN flow) · client-engagement · Idempotent GRN-to-GL posting engine (Dr Inventory / Cr GRNI, two creation paths reconciled to one ledger effect) — the receiving-to-ledger gap most small-business inventory tools leave manual.
 
