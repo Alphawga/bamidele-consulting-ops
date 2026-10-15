@@ -16,6 +16,10 @@ question hooks, never invent numbers. See the `content-engine` skill.
 
 ---
 
+- 2026-08-06 · radar · blog · Meta Business Agent on WhatsApp switched from free to paid August 1: Nigerian SMEs adding AI to disconnected operations make the disconnection visible to customers in real time. Fix the data layer the AI reads before deploying the AI the customer talks to.
+- 2026-08-06 · radar · blog · Paystack's N150K SME Launchpad starts August 27 with 50 businesses: training on cash flow management only works when the business has records clean enough to measure against. The ops gap comes before the knowledge gap.
+- 2026-08-06 · radar · blog · Nigeria's cocoa value-addition push targets the $130bn chocolate market: moving from raw export to processing requires replacing the entire operational system, not upgrading it. Aggregators building operations now for local processing will take the first contracts.
+
 - 2026-07-20 · radar · blog · Russia's diesel export ban is a procurement cost visibility test: the companies that saw the price spike coming had connected fuel inventory and supplier data; the ones that found out on the invoice did not.
 - 2026-07-20 · radar · blog · 57% of enterprises traced confident AI agent errors to bad underlying data, not a bad model. Fix the data layer first: the same unified system that prevents AI errors also fixes procurement reporting and compliance documentation.
 - 2026-07-20 · radar · blog · Forrester says one-third of B2B transactions will run through autonomous agents by end of 2026. When your client's agent reads your invoice records, disconnected operations become a payment delay, automatically.
