@@ -17,6 +17,7 @@ See the `tool-scout` skill for the full Capture/Scout workflow and the ownership
 
 ---
 
+- 2026-09-20 · Okoh ERP (`src/lib/accounting/posting-engines.ts`, GRN flow) · client-engagement · Tool-scout top pick: GRN-to-GL posting engine (GR/IR clearing) — no standalone library/API found on the market, only bundled inside full ERPs (Odoo, Oracle, Dynamics). Sell-as-IP or open-source, conditional on Okoh rights clearance. See `reports/2026-09-20.md`.
 - 2026-07-14 · Okoh ERP (`src/lib/accounting/bank-sync/`) · client-engagement · Bank-feed transaction matching + auto-posting engine (Plaid connect, rule-based matcher, GL posting, exclude flow) — generic enough for any small business doing manual bank reconciliation.
 - 2026-07-14 · Okoh ERP (`src/lib/accounting/posting-engines.ts`, GRN flow) · client-engagement · Idempotent GRN-to-GL posting engine (Dr Inventory / Cr GRNI, two creation paths reconciled to one ledger effect) — the receiving-to-ledger gap most small-business inventory tools leave manual.
 
