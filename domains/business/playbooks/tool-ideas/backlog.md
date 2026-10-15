@@ -17,6 +17,7 @@ See the `tool-scout` skill for the full Capture/Scout workflow and the ownership
 
 ---
 
+- 2026-09-06 · tool-scout report · client-engagement · Top picks from `reports/2026-09-06.md`: bank-feed matching engine → open-source the connector-agnostic rules core (not the connector) once Okoh rights are cleared; GRNI posting engine → license as a module/IP component once Okoh rights are cleared. Both conditional — see report for reasoning and sources.
 - 2026-07-14 · Okoh ERP (`src/lib/accounting/bank-sync/`) · client-engagement · Bank-feed transaction matching + auto-posting engine (Plaid connect, rule-based matcher, GL posting, exclude flow) — generic enough for any small business doing manual bank reconciliation.
 - 2026-07-14 · Okoh ERP (`src/lib/accounting/posting-engines.ts`, GRN flow) · client-engagement · Idempotent GRN-to-GL posting engine (Dr Inventory / Cr GRNI, two creation paths reconciled to one ledger effect) — the receiving-to-ledger gap most small-business inventory tools leave manual.
 
