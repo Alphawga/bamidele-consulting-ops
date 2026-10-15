@@ -9,7 +9,7 @@ Standing takes to rotate and extend: Nigerian SMEs do not need AI yet, they need
 
 ## Thursday format: news + take
 Structure: the news item in two sentences > why it matters to an SME owner in one sentence > the systems angle in three or four sentences > one practical implication.
-Research inputs (morning run): Nairametrics, BusinessDay, NCDMB news, Punch business, TechCabal, NBS releases. Filter for: SME policy, oil and gas local content, procurement, digitization, funding for indigenous firms. Last 48 hours preferred, last 7 days acceptable.
+Research inputs (morning run): Nairametrics, BusinessDay, NCDMB news, Punch business, TechCabal, NBS releases. Filter for: SME policy, oil and gas local content, procurement, digitization, funding for indigenous firms, PIA implementation progress, domestic refining push, gas-to-power projects. Last 48 hours preferred, last 7 days acceptable.
 
 ## Hook patterns
 - "NCDMB just [did thing]. Most owners will miss what it means."

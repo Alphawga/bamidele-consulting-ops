@@ -43,7 +43,7 @@ answer those plainly, in whatever register actually helps Alpha.
 
 ## Stack
 
-- Next.js 14 App Router + TypeScript + Tailwind. MDX via `next-mdx-remote` + `gray-matter`.
+- Next.js 15+ App Router + TypeScript + Tailwind. MDX via `next-mdx-remote` + `gray-matter`.
 - Resend (contact form, mailto fallback). Cal.com embed (booking). Deploy: Vercel.
 - No database. Keep it static and fast. Lighthouse target 95+ on mobile.
 

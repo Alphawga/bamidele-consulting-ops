@@ -21,7 +21,7 @@ fi
 {
   echo "Content + capture checkpoint (business domain files changed this session):"
   echo "1. Did this session ship or discuss something with a content angle? If yes, append a one-line seed to domains/business/content/backlog.md (use the content-engine skill)."
-  echo "2. New design or voice pattern, or a correction? Update the project memory + MEMORY.md so it persists."
+  echo "2. New design or voice pattern, or a correction? Update domains/business/knowledge/learnings.md (voice/content rule) or append a dated entry to domains/business/progress/ (session decision) so it persists."
   echo "3. If a case study or insight is ready, draft it as MDX (draft: true) via the content-engine skill."
   echo "If nothing new, just stop."
 } >&2

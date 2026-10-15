@@ -26,6 +26,8 @@ npm run dev      # preview at http://localhost:3000
 npm run build    # confirm it compiles
 ```
 
+Lighthouse target is 95+ on mobile. To catch Core Web Vitals regressions before they reach Vercel: `npm i -g @lhci/cli` once, then `npx lhci autorun` after each build. No CI config needed at this stage — manual runs before deploy are enough.
+
 To go live: import this repo on vercel.com and set the env vars from `.env.example`.
 After that, every `git push` to `main` auto-deploys.
 
